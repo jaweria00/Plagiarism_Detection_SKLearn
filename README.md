@@ -5,7 +5,7 @@ SKLearn Support Vector Machine (SVM) model was used to classify the results. Bin
 The project was done as part of Udacity Nanodegreee program and the data was provided by Udacity.
 
   # Libraries included in the project
-  SK-Learn, numpy, os, pandas, and more
+  Scikit-learn, numpy, os, pandas, and more
   
   Two notebooks along with files for helper functions
   In the first notebook, data is uploaded and then explored. The data is then preprocessed and prepared for machine learning
